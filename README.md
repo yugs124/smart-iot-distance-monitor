@@ -29,10 +29,10 @@ This is my IoT project using **ESP32**, **HC-SR04 ultrasonic sensor**, **LED**, 
 ## Project Images
 
 ### Setup
-![Setup](setup.jpg)
+![Setup](setup.jpg.jpeg)
 
 ### Dashboard
-![Dashboard](dashboard.jpg)
+![Dashboard](dashboard.jpg.png)
 
 ### Working
 ![Working](working.jpg)
