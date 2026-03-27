@@ -1,4 +1,3 @@
-# smart-iot-distance-monitor
 # Smart IoT Distance Monitoring System using ESP32
 
 This is my IoT project using **ESP32**, **HC-SR04 ultrasonic sensor**, **LED**, and **Blynk dashboard**.
